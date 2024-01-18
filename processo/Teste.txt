@@ -1,0 +1,17 @@
+https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001FNRV0000&processo.foro=1&processo.numero=0744523-22.2023.8.02.0001
+https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=010010YUO0000&processo.foro=1&processo.numero=0709602-08.2021.8.02.0001
+https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01000ZXCL0000&processo.foro=1&processo.numero=0702004-03.2021.8.02.0001
+https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01000X0LB0000&processo.foro=1&processo.numero=0714102-54.2020.8.02.0001
+https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01000RRH90000&processo.foro=1&processo.numero=0732620-29.2019.8.02.0001
+
+REPETIDOS
+
+https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001FNRV0000&processo.foro=1&conversationId=&cbPesquisa=NMPARTE&dadosConsulta.valorConsulta=filipe+leite+pais&cdForo=-1&paginaConsulta=1
+https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=010010YUO0001&processo.foro=1&conversationId=&cbPesquisa=NMPARTE&dadosConsulta.valorConsulta=filipe+leite+pais&cdForo=-1&cdProcessoMaster=010010YUO0000&cdForoProcesso=1&conversationId=&paginaConsulta=1
+https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01000ZXCL0002&processo.foro=1&conversationId=&cbPesquisa=NMPARTE&dadosConsulta.valorConsulta=filipe+leite+pais&cdForo=-1&cdProcessoMaster=01000ZXCL0000&cdForoProcesso=1&conversationId=&paginaConsulta=1
+https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001FNRV0000&processo.foro=1&conversationId=&cbPesquisa=NMPARTE&dadosConsulta.valorConsulta=filipe+leite+pais&cdForo=-1&paginaConsulta=1
+https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=010010YUO0001&processo.foro=1&conversationId=&cbPesquisa=NMPARTE&dadosConsulta.valorConsulta=filipe+leite+pais&cdForo=-1&cdProcessoMaster=010010YUO0000&cdForoProcesso=1&conversationId=&paginaConsulta=1
+https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01000ZXCL0002&processo.foro=1&conversationId=&cbPesquisa=NMPARTE&dadosConsulta.valorConsulta=filipe+leite+pais&cdForo=-1&cdProcessoMaster=01000ZXCL0000&cdForoProcesso=1&conversationId=&paginaConsulta=1
+https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01000ZXCL0002&processo.foro=1&conversationId=&cbPesquisa=NMPARTE&dadosConsulta.valorConsulta=filipe+leite+pais&cdForo=-1&cdProcessoMaster=01000ZXCL0000&cdForoProcesso=1&conversationId=&paginaConsulta=1
+https://www.tjal.jus.br/cpopg/show.do?processo.codigo=01000ZXCL0002&processo.foro=1&conversationId=&cbPesquisa=NMPARTE&dadosConsulta.valorConsulta=filipe+leite+pais&cdForo=-1&cdProcessoMaster=01000ZXCL0000&cdForoProcesso=1&conversationId=&paginaConsulta=1
+https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001FNRV0000&processo.foro=1&processo.numero=0744523-22.2023.8.02.0001
