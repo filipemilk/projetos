@@ -42,3 +42,6 @@ https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001FYUT0000&processo.fo
 https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001FUGX0000&processo.foro=1&processo.numero=0750860-27.2023.8.02.0001
 https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001FWO10000&processo.foro=1&processo.numero=0752992-57.2023.8.02.0001
 
+PIMENTEL (SOCORRO)
+
+https://www2.tjal.jus.br/cpopg/show.do?localPesquisa.cdLocal=1&processo.codigo=01001AINE0001&processo.foro=1
