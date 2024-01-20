@@ -6,12 +6,12 @@
 -----------------------------
 Pequenas telas: até 640px
 Celular: 640px até 768px
-Tablet: 768px até 1024px
-Laptop: 1024px até 1280px
+Tablet: 769px até 1024px
+Laptop: 1025px até 1280px
 Grandes telas: acima de 1280px
 */
 
-@media screen and (min-width: 768px) {/*CONFIGURAÇÃO PARA TABLET*/
+@media screen and (min-width: 769px) {/*CONFIGURAÇÃO PARA TABLET*/
     body {
         background-image: linear-gradient(to top, rgb(209, 209, 209), rgb(79, 79, 209));
         width: 100vw;
