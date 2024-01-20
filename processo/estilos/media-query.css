@@ -18,6 +18,10 @@ Grandes telas: acima de 1280px
         height: 100vh;
     }
 
+    section#area{
+       width: 500px; 
+    }
+
     footer {
         color: black;
     }
