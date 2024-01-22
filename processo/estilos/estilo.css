@@ -8,6 +8,7 @@ header {
     color: white;
     text-align: center;
 }
+
 section#area {
     background: white;
     border-radius: 10px;
@@ -48,4 +49,40 @@ footer {
     color: white;
     text-align: center;
     font-style: italic;
+}
+
+/*------------------LOGIN MOBILE----------------*/
+
+section#login {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    background-color: white;
+    width: 250px;
+    height: 500px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.450);
+    overflow: hidden;
+
+    transform: translate(-50%, -50%);
+}
+
+section#login > div#imagem {
+    display: block;
+    background: url(../imagens/postites.jpg) no-repeat;
+    height: 200px;
+    background-size: cover;
+}
+
+section#login > div#formulario {
+    display: block;
+    padding: 0px;
+}
+
+form > div.campo {
+    background-color: rgb(79, 79, 209);
+    border: 2px solid #5f2c82;
+    height: 40px;
+    border-radius: 8px;
+    margin:  5px 0px;
 }
