@@ -15,7 +15,7 @@
 
 body, html {
     background-color: #5f2c82;
-    height: 100vh;
+    height: 100vmin;
     width: 100vw;
 }
 
