@@ -1,8 +1,16 @@
 @charset "UTF-8";
 
-body {
-    background: rgb(79, 79, 209);
+* {
     font: normal 15pt Arial;
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+html, body {
+    background: rgb(79, 79, 209);
+    width: 100vw;
+    height: 100vh;
 }
 header {
     color: white;

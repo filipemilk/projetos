@@ -14,8 +14,23 @@ Grandes telas: acima de 1280px
 @media screen and (min-width: 769px) {/*CONFIGURAÇÃO PARA TABLET*/
     body {
         background-image: linear-gradient(to top, rgb(209, 209, 209), rgb(79, 79, 209));
-        width: 100vw;
-        height: 100vh;
+        
+    }
+
+    section#login {
+        width: 80vw;
+        height: 280px;
+    }
+
+    section#login > div#imagem {
+        float: left;
+        width: 30%;
+        height: 100%;
+    }
+
+    section#login > div#formulario {
+        float: right;
+        width: 70%;
     }
 
     footer {
