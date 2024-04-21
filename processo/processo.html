@@ -8,30 +8,64 @@
     <link rel="stylesheet" href="estilos/media-query.css">
 </head>
 <body onload ="dataHoje()">
-    <section id="area">
-        <div id="dados">
-            <h1>Consultar Processos...</h1>
-            <p>Nome do Arquivo:
-                <select name="arquivo" id="arquivo">
-                    <option value="Filipe" selected>Filipe</option>
-                    <option value="Inaldo">Inaldo</option>
-                    <option value="Teste">Teste</option>
-                </select>
-                .txt
-            </p>
-            <p>Data de Movimentação:
-                <input type="date" id="data">
-                <input type="button" value="Consultar" id="but" onclick="abrirArquivo()" >
-            </p>
-        </div>
-        <div id="res">
-           
-        </div>
-    </section>
+    <header>
+        
+    </header>
+    <main>
+        <section id="area">
+            <div id="dados">
+                <h1>Consultar Processos</h1>
+                <div class="campo">
+                    <label for="arquivo">Nome do Arquivo:</label>
+                    <select name="arquivo" id="arquivo">
+                        <option value="Filipe" selected>Filipe</option>
+                        <option value="Inaldo">Inaldo</option>
+                        <option value="Teste">Teste</option>
+                    </select>
+                    .txt
+                </div>
+                <div class="campo">
+                    <fieldset>
+                        <legend>Adicionar Processo</legend>
+                        <div>
+                            <label for="ilink">Link do Processo:</label>
+                            <input type="text" name="link" id="ilink">
+                            <input type="button" value="Adicionar" id="add" onclick="escreverArquivo()">
+                        </div>
+                    </fieldset>
+                </div>
+                <div class="campo">
+                    <fieldset>
+                        <legend>Área de Consulta</legend>
+                        <div>
+                            <label for="iautordata">Escolha o campo:</label>
+                            <select name="autordata" id="iautordata">
+                                <option value="Autor">Autor</option>
+                                <option value="Data" selected>Data</option>
+                            </select>
+                        </div>
+                        <div>
+                            <label for="inome">Nome do Autor:</label>
+                            <input type="text" name="nome" id="inome" disabled>
+                        </div>
+                        <div>
+                            <label for="data">Data de Movimentação:</label>
+                            <input type="date" id="data">
+                        </div>
+                        <div>
+                            <input type="button" value="Consultar" id="but-consulta" onclick="abrirArquivo()" >
+                        </div>
+                    </fieldset>
+                </div>
+            </div>
+            <div id="res">
+        
+            </div>
+        </section>
+    </main>
     <footer>
         <p>&copy; FLP System</p>
     </footer>
-    <script src="server.js"></script>
     <script src="consulta.js"></script>
 </body>
 </html>

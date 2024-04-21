@@ -1,137 +1,86 @@
 @charset "UTF-8";
 
 * {
-    font: normal 15pt Arial;
     padding: 0px;
     margin: 0px;
     box-sizing: border-box;
 }
-
-html, body {
+body {
     background: rgb(79, 79, 209);
-    width: 100vw;
-    height: 100vh;
+    font: normal 15pt Arial;
+    padding: 4px;
 }
-header {
-    color: white;
-    text-align: center;
-}
-
-section#area {
+section{
     background: white;
     border-radius: 10px;
     padding: 15px;
     min-width: 320px;
-    max-width: 500px;
+    max-width: 800px;
     margin: auto;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.521);
 }
+fieldset {
+    background-color: rgb(245, 245, 245);
+    padding: 8px;
+    border-radius: 10px;
+}
 div {
-    text-align: left;
     padding: 8px;
 }
 div#res {
+    margin: 8px auto;
     overflow-x: auto;
+    width: calc(100% - 34px);
+}
+p {
+    padding: 4px;
 }
 h1 {
     text-align: center;
+    margin: 15px auto;
 }
-img {
-    border-radius: 50%;
-    width: 150px;
-    height: 150px;
-}
-select#arquivo {
+select {
     height:33px;
-    width:207px
-}   
-input#data {
-    height:32px;
-    width:150px
+    width:212px;
 }
-input#but {
-    height:32px;
-    width:100px
+legend {
+    font-size: 0.8em;
+    font-weight: bold;
+    margin: 0px 8px;
+    padding: 0px 2px;
+}
+input#ilink {
+    height:33px;
+    width: 100%;
+    margin-right: 7px;
+}
+input#inome {
+    height: 33px;
+    width: 232px;
+    text-transform: capitalize;
+}
+input#data {
+    height:33px;
+    width:160px
+}
+input[type="button"] {
+    height:33px;
+    width:100px;
+    color: white;
+    background-color: rgb(79, 79, 209);
+    border-radius: 8px;
+    border: 0px;
+}
+input#add {
+    margin-top: 10px;
+}
+input[type="button"]:hover {
+    background-color: rgb(64, 64, 168);
+    cursor: pointer;
 }
 footer {
     color: white;
     text-align: center;
     font-style: italic;
-}
-
-/*------------------LOGIN MOBILE----------------*/
-
-section#login {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    background-color: white;
-    width: 250px;
-    height: 500px;
-    border-radius: 20px;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.450);
-    overflow: hidden;
-
-    transform: translate(-50%, -50%);
-}
-
-section#login > div#imagem {
-    display: block;
-    background: url(../imagens/pastas.jpg) no-repeat;
-    height: 200px;
-    background-size: cover;
-}
-
-section#login > div#formulario {
-    display: block;
-    padding: 10px;
-}
-
-div#formulario > h1 {
-    color: rgb(71, 50, 129);
-}
-
-form > div.campo {
-    background-color: rgb(79, 79, 209);
-    border: 2px solid rgb(79, 79, 209);
-    display: block;
-    height: 20px;
-    border-radius: 8px;
-    margin: 5px 0px;
-}
-
-div.campo > label > span {
-    color: white;
-}
-
-div.campo > input {
-    background-color: rgb(209, 209, 209);
-    width: 82%;
-    height: 100%;
-    border: 0px;
-    border-radius: 8px;
-    padding: 4px;
-    margin: 0px;
-    transform: translateY(-10px);
-}
-
-div.campo > input:focus-within {
-    background-color: white;
-}
-
-form > input[type=submit] {
-    display: block;
-    font-size: 1em;
-    width: 100%;
-    height: 40px;
-    background-color: rgb(71, 50, 129);
-    color: white;
-    border: none;
-    border-radius: 5px;
-    margin-top: 20px;
-    cursor: pointer;
-}
-
-form > input[type=submit]:hover {
-    background-color: rgb(98, 70, 177);
+    margin-top: 10px;
 }
